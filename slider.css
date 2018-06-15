@@ -1,0 +1,5 @@
+#sliderJS {position: relative;}
+#sliderJS img {position: absolute;}
+#sliderJS .sliderJs-flip {visibility: hidden;}
+
+.sliderJS-widescreen img {width: 100%; height: auto;}
