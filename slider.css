@@ -1,5 +1,6 @@
 #sliderJS {position: relative;}
-#sliderJS img {position: absolute;}
+#sliderJS img {position: absolute; opacity: 1; transition: opacity .35s ease-in-out;}
 #sliderJS .sliderJs-flip {visibility: hidden;}
+#sliderJS .sliderJS-fade {opacity: 0;}
 
 .sliderJS-widescreen img {width: 100%; height: auto;}
